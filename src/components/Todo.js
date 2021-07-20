@@ -89,6 +89,7 @@ const Todo = () => {
     </View>
   );
 };
+// Adding comments
 
 const styles = StyleSheet.create({
   container: {
